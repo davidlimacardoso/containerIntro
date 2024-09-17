@@ -21,4 +21,4 @@ ip addr show | grep inet
 docker compose down
 ````
 
-# Go to browser and enter VMIP:80
+Go to browser and enter VMIP:80
